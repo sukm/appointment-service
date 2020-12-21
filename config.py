@@ -1,0 +1,4 @@
+DEBUG = True
+SQLALCHEMY_DATABASE_URI = "mysql://username:password@host@/database"
+SQLALCHEMY_TRACK_MODIFICATIONS = False
+PROPAGATE_EXCEPTIONS = True
